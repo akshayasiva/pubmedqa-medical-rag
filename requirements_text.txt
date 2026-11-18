@@ -1,0 +1,10 @@
+sentence-transformers
+transformers
+datasets
+accelerate
+torch
+chromadb
+rank_bm25
+gradio
+pandas
+numpy
