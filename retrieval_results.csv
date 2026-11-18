@@ -1,0 +1,6 @@
+,hit@1,hit@5,hit@10,MRR@10
+keyword (BM25),0.94,0.982,0.984,0.959
+vector baseline,0.967,0.991,0.994,0.977
+vector fine-tuned,0.977,0.992,0.994,0.984
+hybrid baseline,0.973,0.992,0.995,0.981
+hybrid fine-tuned,0.973,0.992,0.996,0.981
