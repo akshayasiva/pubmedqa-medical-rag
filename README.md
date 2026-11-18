@@ -2,7 +2,7 @@
 
 **Does fine-tuning an embedding model on medical text help a RAG system find better evidence and give better answers?**
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshayasiva/pubmedqa-medical-rag/blob/main/PubMedQA_Medical_RAG.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshayasiva/pubmedqa-medical-rag/blob/main/PubMedQA_Medical_RAG_from_scratch%20jupyter.ipynb)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow)
 ![GPU](https://img.shields.io/badge/GPU-Colab%20T4-green)
 
@@ -197,12 +197,12 @@ For *"Are sports medicine journals relevant and applicable to practitioners and 
 ```
 pubmedqa-medical-rag/
 ├── README.md
-├── PubMedQA_Medical_RAG.ipynb    # full notebook with outputs
-├── pubmedqa_medical_rag.py       # plain Python version
-├── requirements.txt
-├── retrieval_results.csv         # retrieval scores for all 5 search setups
-├── rag_predictions.csv           # every answer from the evaluation
-└── app_hybrid.png                # app screenshot
+├── PubMedQA_Medical_RAG_from_scratch jupyter.ipynb   # full notebook with outputs
+├── pubmedqa_medical_rag_from_scratch.py               # plain Python version
+├── requirements_text.txt                             # libraries used
+├── retrieval_results.csv                              # retrieval scores for all 5 search setups
+├── rag_predictions.csv                                # every answer from the evaluation
+└── app_hybrid.png                                     # app screenshot
 ```
 
 ---
